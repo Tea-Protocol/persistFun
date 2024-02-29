@@ -1,0 +1,24 @@
+{
+  "name": "@shawncvv/persist-hooks",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "utils",
+    "color"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tea-Protocol/persistFun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tea-Protocol/persistFun/issues"
+  },
+  "homepage": "https://github.com/Tea-Protocol/persistFun#readme",
+  "devDependencies": {}
+}
