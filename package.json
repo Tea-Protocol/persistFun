@@ -1,6 +1,6 @@
 {
   "name": "@shawncvv/persist-hooks",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "keywords": [
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Tea-Protocol/persistFun#readme",
   "devDependencies": {},
   "dependencies": {
-    "@shisongyan/react-org-chart": "1.1.0"
+    "@shisongyan/react-org-chart": "1.1.0",
+    "@shawncvv/format": "0.0.1"
   }
 }
