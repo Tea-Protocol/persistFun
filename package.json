@@ -20,5 +20,8 @@
     "url": "https://github.com/Tea-Protocol/persistFun/issues"
   },
   "homepage": "https://github.com/Tea-Protocol/persistFun#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "@shisongyan/react-org-chart": "1.1.0"
+  }
 }
